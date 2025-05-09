@@ -4,6 +4,8 @@ Atualmente estou cursando Design Digital na Universidade Federal do Ceará - UFC
 
 ## FINISH HIM!
 
+## COMMIT VS
+
 <!--
 **Kauto22/Kauto22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
