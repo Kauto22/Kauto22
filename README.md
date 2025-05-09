@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, my name is Kauã!
+
+I am studying Digital Design at the Federal University of Ceará I have experience in HTML, CSS, Python and JS 👋
 
 <!--
 **Kauto22/Kauto22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
