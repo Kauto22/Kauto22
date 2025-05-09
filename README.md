@@ -1,6 +1,6 @@
-## Hi, my name is Kauã!
+## Olá, meu nome é Kauã!
 
-I am studying Digital Design at the Federal University of Ceará I have experience in HTML, CSS, Python and JS 👋
+Atualmente estou cursando Design Digital na Universidade Federal do Ceará - UFC 👋
 
 <!--
 **Kauto22/Kauto22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
